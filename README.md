@@ -1,2 +1,2 @@
-# Penerapan-Convolutional-Neural-Network-CNN-untuk-Identifikasi-Hewan-Peliharaan
+# Penerapan Convolutional Neural Network CNN untuk Identifikasi Hewan Peliharaan
 Proyek ini bertujuan untuk mengimplementasikan dan mengeksplorasi Convolutional Neural Network (CNN) untuk identifikasi hewan peliharaan. Dengan menggunakan dataset gambar hewan peliharaan seperti anjing dan kucing, proyek ini akan melatih model CNN untuk mengenali dan mengklasifikasikan jenis hewan peliharaan dengan akurasi tinggi.
